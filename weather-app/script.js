@@ -1,4 +1,4 @@
-const apiKey = 'b32cf35435e82040563f6f6529c31b04'; // Replace with your API key
+const apiKey = 'Replace with your API key'; // Replace with your API key
 const baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 document.getElementById('get-weather').addEventListener('click', async () => {
